@@ -1,0 +1,22 @@
+body {
+  font-family: $raleway;
+  font-weight: $regular;
+}
+
+p {
+  font-weight: $regular;
+  font-size: $medium;
+  text-align: left;
+}
+
+
+h3 {
+  font-size: $large;
+  font-weight: bold;
+}
+
+.secondary,
+.about__name,
+.about__text {
+  color: $granite_gray;
+}
